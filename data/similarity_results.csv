@@ -1,0 +1,11 @@
+Text 1,Text 2,Cosine Similarity
+Python is a popular programming language.,Python is widely used for machine learning.,0.763
+Machine learning is a branch of artificial intelligence.,Artificial intelligence helps computers perform intelligent tasks.,0.6397
+Python is widely used for machine learning.,Machine learning is a branch of artificial intelligence.,0.5581
+Python is a popular programming language.,Java is a programming language.,0.5023
+Python is widely used for machine learning.,Artificial intelligence helps computers perform intelligent tasks.,0.4503
+Python is a popular programming language.,Artificial intelligence helps computers perform intelligent tasks.,0.3333
+Java is a programming language.,Machine learning is a branch of artificial intelligence.,0.3322
+Python is widely used for machine learning.,Java is a programming language.,0.3259
+Java is a programming language.,Artificial intelligence helps computers perform intelligent tasks.,0.3019
+Python is a popular programming language.,Machine learning is a branch of artificial intelligence.,0.2474
